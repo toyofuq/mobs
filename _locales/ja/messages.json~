@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "rightABookmark"
+  },
+  "appDesc": {
+    "message": "あなたのChromeの右クリックメニューにBookmarkToolbarを追加します。"
+  }
+}
